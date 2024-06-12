@@ -1,2 +1,0 @@
-# Rankings and Payouts
-

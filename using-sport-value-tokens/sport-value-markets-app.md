@@ -1,2 +1,0 @@
-# Sport Value Markets App
-
