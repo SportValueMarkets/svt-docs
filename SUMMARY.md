@@ -24,10 +24,16 @@
 
 ## SVT DAO
 
+* [Governance token](svt-dao/governance-token.md)
 * [Governance](svt-dao/governance.md)
-* [Tokenomics](svt-dao/tokenomics.md)
+* [Token Distribution](svt-dao/token-distribution.md)
 
 ## Developers
 
 * [Integration](developers/integration.md)
 * [Smart Contracts](developers/smart-contracts.md)
+
+## Resources
+
+* [Social Media](resources/social-media.md)
+* [Community](resources/community.md)
