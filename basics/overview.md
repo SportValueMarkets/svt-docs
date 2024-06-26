@@ -2,7 +2,11 @@
 
 ## What is Sport Valued Tokens?
 
-Sport Value Tokens (SVT) are crypto tokens representing athletes in different sports (Football, Basketball, Cricket) offering performance based rewards to their holders. SVT is also a Web 3.0 protocol governed by a DAO. A protocol in the web 3 context is a set of smart contracts executed on a blockchain in a decentralised way. The SVT protocol regulates the issuance of tokens representing athletes. It also orchestrates performance related payouts. Each player is scored like in Fantasy Sports games, using statistics from real sports events . SVT protocol is governed by a community driven DAO, using governance tokens (called Sport Value Coins or SVC). SVC token holders have voting powers. SVT is a revenue generating protocol. The revenue from fess is distributed to SVC token holders. SVT is also an ecosystem composed of: &#x20;
+Sport Value Tokens (SVT) are crypto tokens representing athletes in different sports (Football, Basketball, Cricket) offering performance based rewards to their holders. SVT is also a Web 3.0 protocol governed by a DAO. A protocol in the web 3 context is a set of smart contracts executed on a blockchain in a decentralised way. The SVT protocol regulates the issuance of tokens representing athletes. It also orchestrates performance related payouts. Each player is scored like in Fantasy Sports games, using statistics from real sports events . SVT protocol is governed by a community driven DAO, using governance tokens (called Sport Value Coins or SVC). SVC token holders have voting powers. SVT is a revenue generating protocol. The revenue from protocol fees is distributed to SVC token holders.&#x20;
+
+
+
+SVT is also an ecosystem composed of: &#x20;
 
 * the tokens representing sports players
 * the SVT protocol&#x20;
@@ -19,7 +23,7 @@ Sport Value Tokens (SVT) are crypto tokens representing athletes in different sp
 
 **Community driven**: owned by the community organised in a DAO. Key decisions are voted by governance token holders. No single owner or operator.&#x20;
 
-**Global Reach**: no geographical restrictions, open to everyone Innovation: we don't stop with the launch, it is just a beginning of an iterative and evolutionary process.
+**Global Reach**: no geographical restrictions, open to everyone Innovation: we don't stop with the launch, it is just the beginning of an iterative and evolutionary process.
 
 ## How to Win&#x20;
 

@@ -35,5 +35,5 @@
 
 ## Resources
 
-* [Social Media](resources/social-media.md)
 * [Community](resources/community.md)
+* [Referral Program](resources/referral-program.md)

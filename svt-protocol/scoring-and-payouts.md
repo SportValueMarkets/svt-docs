@@ -17,5 +17,17 @@ Payout(user, player) = numberOfStakedTokens(user, player) / totalNumberOfTokens(
 
 
 
-The score is a calculator using a scoring matrix borrowed from fantasy sports. The score is also adjusted relative to different leagues.
+The score is calculated using a scoring matrix borrowed from fantasy sports. The scoring formula is different for every sport. For football it is:\
+
+
+score = game result score +  attack score + passing score + defending score - errors
+
+
+
+The score is also adjusted for different types of players (attacker, defender, midfield, goalkeeper). See the scoring matrices in scoring matrix sections.
+
+In order to calculate the score, the system collects stats from data providers via an Oracle network.
+
+\
+
 
