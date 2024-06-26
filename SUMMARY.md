@@ -35,5 +35,6 @@
 
 ## Resources
 
-* [Community](resources/community.md)
+* [Community Rewards](resources/community-rewards.md)
 * [Referral Program](resources/referral-program.md)
+* [Links](resources/links.md)
