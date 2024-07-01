@@ -33,8 +33,8 @@
 * [Integration](developers/integration.md)
 * [Smart Contracts](developers/smart-contracts.md)
 
-## Resources
+## Community
 
-* [Community Rewards](resources/community-rewards.md)
-* [Referral Program](resources/referral-program.md)
-* [Links](resources/links.md)
+* [Community Rewards](community/community-rewards.md)
+* [Referral Program](community/referral-program.md)
+* [Links](community/links.md)
