@@ -9,7 +9,7 @@ These are the tokens representing the players. They are ERC20 compatible, fixed 
 
 **Issuance Contract**
 
-This is the contract that is responsible for the issuance of new tokens. Tokens are sold initially using a mechanism called Variable Rate Gradual Dutch Auctions (VRDA). Not all tokens are sold. Some are kept in the treasury and added as liquidity in the DEX Liquidity pool. The trading fees from the DEX are collected by the rewards pool.\
+This is the contract that is responsible for the issuance of new tokens. It is using a Bonding curve mechanism to sell the tokens. Not all tokens are sold. Some are kept in the treasury and added as liquidity in the DEX Liquidity pool.\
 
 
 **Token Vault**
