@@ -8,6 +8,10 @@ Token prices depend on the supply and demand dynamics of the market, generally d
 
 Nobody calculates tokens princes. SVT are freely traded by their owners on our DEX or any third party exchange or even peer to peer.
 
+## What drives the price then?
+
+The tokens themselves are freely tradable, and price depends on buyers and sellers. The the reason to hold a player token is to earn financial rewards like dividends in stocks based on the real life player performance (like in Fantasy sports). So the player performance on the pitch should drive the price indirectly.
+
 ## Who owns SVT?
 
 The software is built by an engineering team, appointed by the SV DAO. Ultimately the project is owned by the community.
