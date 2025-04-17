@@ -14,7 +14,6 @@ description: This page will contain the scoring matrix for players
 | **Assist**             | A goal by passing the ball to the player who scored the goal.                                                                                                | **12**   |
 | **Key Pass**           | Player assists another player who takes a shot that is on target (includes goals) or off target.                                                             | **5**    |
 | **Interception**       | A player intercepts a pass between opposition.                                                                                                               | **2**    |
-| **Hit Woodwork**       | The ball hits the woodwork in any situation (includes blocked onto or saved but not goals).                                                                  | **4**    |
 | **Penalty Won**        | Player fouled within the penalty box (excludes any penalties won for handball).                                                                              | **10**   |
 | **Tackle**             | Winning possession or putting the ball out of play.                                                                                                          | **3**    |
 | **Block**              | Defender blocks a shot.                                                                                                                                      | **2**    |
@@ -31,7 +30,5 @@ description: This page will contain the scoring matrix for players
 | **Winning Team**       | The player is on the winning team.                                                                                                                           | **20**   |
 | **Clean Sheet**        | The players team does not concede a goal. (Defenders and Goalkeepers Only. )                                                                                 | **20**   |
 
-## Football - Sky Sports Fantasy Football Rules
-
-This is the matrix used by [Sky Sports Fantasy Football](https://fantasyfootball.skysports.com/help/fantasy). It can be voted as an alternative to V1 here above or some elements from it can be used to improve V1.
+##
 

@@ -12,7 +12,7 @@ Nobody calculates tokens princes. SVT are freely traded by their owners on our D
 
 The tokens themselves are freely tradable, and price depends on buyers and sellers. The the reason to hold a player token is to earn financial rewards like dividends in stocks based on the real life player performance (like in Fantasy sports). So the player performance on the pitch should drive the price indirectly.
 
-## Who owns SVT?
+## Who owns SVM?
 
 The software is built by an engineering team, appointed by the SV DAO. Ultimately the project is owned by the community.
 
@@ -34,6 +34,6 @@ Major leagues and competitions. We understand that different leagues may have di
 
 ## Why use blockchain?
 
-Blockchain allows censorship resistance and security in a decentralised network. When you own a token, you really own it, nobody can take it from you. In traditional iGaming platforms, they can shut down your account if they decide so. This is impossible in a web 3, decentralised world. Blockchan and tokenization can empower a community organised under the umbrella of a DAO (decentralised autonomous organisation).
+Blockchain allows censorship resistance and security in a decentralised network. When you own a token, you really own it, nobody can take it from you. In traditional iGaming platforms, they can shut down your account if they decide so. This is impossible in a web 3, decentralised world. Blockchain and tokenisation can empower a community organised under the umbrella of a DAO (decentralised autonomous organisation).
 
 \

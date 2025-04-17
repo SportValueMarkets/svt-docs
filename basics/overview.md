@@ -2,18 +2,16 @@
 
 ## What is Sport Valued Tokens?
 
-Sport Value Tokens (SVT) are crypto tokens representing athletes in different sports (Football, Basketball, Cricket) offering performance based rewards to their holders. SVT is also a Web 3.0 protocol governed by a DAO. A protocol in the web 3 context is a set of smart contracts executed on a blockchain in a decentralised way. The SVT protocol regulates the issuance of tokens representing athletes. It also orchestrates performance related payouts. Each player is scored like in Fantasy Sports games, using statistics from real sports events . SVT protocol is governed by a community driven DAO, using governance tokens (called Sport Value Coins or SVC). SVC token holders have voting powers. SVT is a revenue generating protocol. The revenue from protocol fees is distributed to SVC token holders.&#x20;
+Sport Value Markets (SVM) is a Web 3 protocol issuing tokens linked to real life performance of athletes. A protocol in the web 3 context is a set of smart contracts executed on a blockchain in a decentralised way. The SVM protocol regulates the issuance of tokens representing athletes (player tokens). It also orchestrates performance related payouts. Each player is scored like in Fantasy Sports games, using statistics from real sports events . SVM protocol is governed by a community driven DAO, using governance tokens (called Sport Value Coins or SVC). SVC token holders have voting powers. SVM is a revenue generating protocol. The revenue from protocol fees is distributed to SVC token holders.
 
-
-
-SVT is also an ecosystem composed of: &#x20;
+SVM is also an ecosystem composed of:&#x20;
 
 * the tokens representing sports players
-* the SVT protocol&#x20;
-* the community&#x20;
-* SVT DApp (The Frontend)&#x20;
+* the SVM protocol
+* the community and a DAO
+* SVM DApp (The Frontend)
 * a free to play game powered by the protocol
-* other third party apps and protocols
+* third party apps and protocols
 
 ## Our Core Principles&#x20;
 
@@ -33,7 +31,7 @@ SVTs can be traded any time on our exchange or on any other exchange. Players ar
 
 SVT offers loyalty points and player tokens to its community member for different contributions. There is no airdrop to users who have not contributed.&#x20;
 
-Dxample of actions that are rewarded:&#x20;
+Example of actions that are rewarded:&#x20;
 
 * Follow us quests&#x20;
 * Guess the winning team&#x20;

@@ -3,7 +3,7 @@
 The protocol issues crypto tokens (ERC20 on the EVM compatible chains) that represent athletes in different sports (football, basketball, etc) or teams. We can call them player tokens. Their supply is fixed.\
 
 
-How can tokens be introduced to the market? One way is an auction system. But we found it can be hard to bootstrap liquidity with auctions. We are using a bonding curve \[] for the initial token issuance. A bonding curve is a mathematical curve that defines a relationship between price and token supply. We are using the Bancor formula \[] for the issuance price:
+How can tokens be introduced to the market? One way is an auction system. But we found it can be hard to bootstrap liquidity with auctions. We are using a bonding curve for the initial token issuance. A bonding curve is a mathematical curve that defines a relationship between price and token supply. We are using the [Bancor formula](https://github.com/relevant-community/bonding-curve/blob/master/contracts/BancorFormula.sol) for the issuance price:
 
 
 

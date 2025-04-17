@@ -1,6 +1,6 @@
 # Economics
 
-The SVT protocol charges fees that are shared between SC token holders, the rewards pools and the treasury (see the distribution below).\
+The SVM protocol charges fees that are shared between SC token holders, the rewards pools and the treasury (see the distribution below).\
 
 
 **Protocol Revenue:**

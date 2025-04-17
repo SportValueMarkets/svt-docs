@@ -9,24 +9,24 @@
 
 ## App Guide
 
-* [SVT DApp](app-guide/svt-dapp.md)
-* [SVT Mobile](app-guide/svt-mobile.md)
-* [Sport Value Markets App](app-guide/sport-value-markets-app.md)
+* [SVM DApp](app-guide/svm-dapp.md)
+* [SVM Mobile](app-guide/svm-mobile.md)
+* [SVM Free App](app-guide/svm-free-app.md)
 
-## SVT Protocol
+## SVM Protocol
 
-* [Overview](svt-protocol/overview.md)
-* [Architecture](svt-protocol/architecture.md)
-* [Token Issuance](svt-protocol/token-issuance.md)
-* [Scoring and Payouts](svt-protocol/scoring-and-payouts.md)
-* [Trading Tokens](svt-protocol/trading-tokens.md)
-* [Economics](svt-protocol/economics.md)
+* [Overview](svm-protocol/overview.md)
+* [Architecture](svm-protocol/architecture.md)
+* [Token Issuance](svm-protocol/token-issuance.md)
+* [Scoring and Payouts](svm-protocol/scoring-and-payouts.md)
+* [Trading Tokens](svm-protocol/trading-tokens.md)
+* [Economics](svm-protocol/economics.md)
 
-## SVT DAO
+## SVM DAO
 
-* [Governance token](svt-dao/governance-token.md)
-* [Governance](svt-dao/governance.md)
-* [Token Distribution](svt-dao/token-distribution.md)
+* [Governance token](svm-dao/governance-token.md)
+* [Governance](svm-dao/governance.md)
+* [Token Distribution](svm-dao/token-distribution.md)
 
 ## Developers
 
