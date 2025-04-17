@@ -31,6 +31,7 @@
 ## Developers
 
 * [Integration](developers/integration.md)
+* [API](developers/api.md)
 * [Smart Contracts](developers/smart-contracts.md)
 
 ## Community
