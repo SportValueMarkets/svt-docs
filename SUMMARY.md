@@ -17,7 +17,9 @@
   * [Selling Players](guide/svm-free-to-play/selling-players.md)
   * [Payouts](guide/svm-free-to-play/payouts.md)
   * [How to Win](guide/svm-free-to-play/how-to-win.md)
-* [SVM DApp](guide/svm-dapp.md)
+* [SVM DApp](guide/svm-dapp/README.md)
+  * [Connection](guide/svm-dapp/connection.md)
+  * [Finding Players](guide/svm-dapp/finding-players.md)
 * [SVM Mobile](guide/svm-mobile.md)
 
 ## SVM Protocol
