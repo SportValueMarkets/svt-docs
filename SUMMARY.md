@@ -86,7 +86,7 @@
     * [On-Chain Actions](how-svm-works/sporties-earning-system/how-to-earn-sporties/on-chain-actions.md)
     * [Social Tasks](how-svm-works/sporties-earning-system/how-to-earn-sporties/social-tasks.md)
     * [Referrals](how-svm-works/sporties-earning-system/how-to-earn-sporties/referrals.md)
-  * [How to Allocate Spoirtes to Airdrops](how-svm-works/sporties-earning-system/how-to-allocate-spoirtes-to-airdrops.md)
+  * [How to Allocate Sporties to Airdrops](how-svm-works/sporties-earning-system/how-to-allocate-sporties-to-airdrops.md)
   * [Sporties Strategy: Save or Spend?](how-svm-works/sporties-earning-system/sporties-strategy-save-or-spend.md)
 
 ## Getting STarted
@@ -111,12 +111,9 @@
 
 ## FAQ
 
-* [SVM](faq/svm/README.md)
-  * [Page 1](faq/svm/page-1.md)
-* [SVT](faq/svt/README.md)
-  * [Page 2](faq/svt/page-2.md)
-* [SPT](faq/spt/README.md)
-  * [Page 3](faq/spt/page-3.md)
+* [SVM](faq/svm.md)
+* [SVT](faq/svt.md)
+* [SPT](faq/spt.md)
 * [Sporties](faq/sporties.md)
 
 ## Tokenomics
@@ -137,4 +134,4 @@
 * [🔐 Security & Audits](about-svm/security-and-audits.md)
 * [🎨 Media Kit](about-svm/media-kit.md)
 * [📨 Contacts & Support](about-svm/contacts-and-support.md)
-* [Join The Community](about-svm/join-the-community.md)
+* [🫂 Join The Community](about-svm/join-the-community.md)
