@@ -1,4 +1,4 @@
-# Utilities
+# 🛠️ Utilities
 
 SVT (Sports Value Token) is more than just a governance token — it’s a multi-utility asset that powers user incentives, protocol alignment, and ecosystem expansion across SVM. Its utility grows over time as more modules and dApps are built into the protocol.
 

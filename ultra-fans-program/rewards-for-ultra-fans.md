@@ -1,4 +1,4 @@
-# Rewards for Ultra Fans
+# 🧨 Rewards for Ultra Fans
 
 If you're helping build the sportfi revolution, you're not doing it for likes — you're doing it for the culture, the rewards, and the upside.\
 **Ultra Fans don’t get paid (yet). But they do get recognized, rewarded, and remembered.**

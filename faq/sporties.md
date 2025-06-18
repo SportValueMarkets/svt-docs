@@ -1,4 +1,4 @@
-# Sporties
+# 🏅 Sporties
 
 <details>
 

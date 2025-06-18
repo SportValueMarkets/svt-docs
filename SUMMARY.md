@@ -105,32 +105,34 @@
 
 ## Ultra Fans Program
 
-* [What is the Ultra Fans Program](ultra-fans-program/what-is-the-ultra-fans-program.md)
-* [Rewards for Ultra Fans](ultra-fans-program/rewards-for-ultra-fans.md)
-* [Future Growth & Roles](ultra-fans-program/future-growth-and-roles.md)
+* [👸 What is the Ultra Fans Program](ultra-fans-program/what-is-the-ultra-fans-program.md)
+* [🧨 Rewards for Ultra Fans](ultra-fans-program/rewards-for-ultra-fans.md)
+* [🔮 Future Growth & Roles](ultra-fans-program/future-growth-and-roles.md)
 
 ## FAQ
 
-* [SVM](faq/svm.md)
-* [SVT](faq/svt.md)
-* [SPT](faq/spt.md)
-* [Sporties](faq/sporties.md)
+* [🏦 SVM](faq/svm.md)
+* [🪙 SVT](faq/svt.md)
+* [⚽ SPT](faq/spt.md)
+* [🏅 Sporties](faq/sporties.md)
 
 ## Tokenomics
 
-* [SVTs](tokenomics/svts/README.md)
-  * [Tokenomics](tokenomics/svts/tokenomics.md)
-  * [Utilities](tokenomics/svts/utilities.md)
-* [SPTs](tokenomics/spts/README.md)
-  * [Tokenomics](tokenomics/spts/tokenomics.md)
-  * [Utilities](tokenomics/spts/utilities.md)
-* [Sporties](tokenomics/sporties.md)
+* [🪙 SVTs](tokenomics/svts/README.md)
+  * [💸 Tokenomics](tokenomics/svts/tokenomics.md)
+  * [🛠️ Utilities](tokenomics/svts/utilities.md)
+* [⚽ SPTs](tokenomics/spts/README.md)
+  * [💸 Tokenomics](tokenomics/spts/tokenomics.md)
+  * [🛠️ Utilities](tokenomics/spts/utilities.md)
+* [🏅 Sporties](tokenomics/sporties.md)
 
 ## About SVM
 
 * [🧑‍🤝‍🧑 Meet the Team](about-svm/meet-the-team.md)
 * [🛣️ Roadmap](about-svm/roadmap.md)
-* [⚖️ Legal & Compliance](about-svm/legal-and-compliance.md)
+* [⚖️ Legal & Compliance](about-svm/legal-and-compliance/README.md)
+  * [⏯️ Terms of Use](about-svm/legal-and-compliance/terms-of-use.md)
+  * [🔏 Privacy Policy](about-svm/legal-and-compliance/privacy-policy.md)
 * [🔐 Security & Audits](about-svm/security-and-audits.md)
 * [🎨 Media Kit](about-svm/media-kit.md)
 * [📨 Contacts & Support](about-svm/contacts-and-support.md)

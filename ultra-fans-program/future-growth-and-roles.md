@@ -1,4 +1,4 @@
-# Future Growth & Roles
+# 🔮 Future Growth & Roles
 
 **Ultra Fans aren’t static.** They evolve — from early supporters to leaders, organizers, and eventually core contributors shaping the future of SVM.
 

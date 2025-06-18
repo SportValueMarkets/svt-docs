@@ -1,74 +1,81 @@
-# Sporties
+# 🏅 Sporties
 
 Sporties are SVM’s in-protocol loyalty points — earned through usage, activity, and support for athletes.\
-They fuel your airdrop allocations, track your engagement, and unlock your status in the community.\
-They’re non-transferable and non-sellable — and that’s by design.
+They fuel your airdrop allocations, track your engagement, and unlock your status in the community.
 
+They’re non-transferable and non-sellable — and that’s by design.\
 But just because they’re not a token doesn’t mean they’re not powerful.
 
 ***
 
 #### 🔁 How Sporties Are Issued
 
-**Sporties are earned through key on-chain actions**, calculated daily and claimable after a week.\
-You don’t get them instantly — but once earned, they’re yours forever (even if unclaimed).
+Sporties are earned through key on-chain actions, calculated daily and claimable after a 7-day delay.
 
-Here’s how they’re issued:
+You don’t get them instantly — but once earned, they’re yours forever (even if unclaimed).\
+Claiming is manual, and unclaimed points are preserved — though future actions may cost more gas to claim them simultaneously.
 
 **✅ On-Chain Actions That Earn Sporties:**
 
 * **Buying SPTs**\
-  → Get points for every purchase (amount-based)
+  → Get points based on amount purchased
 * **Selling SPTs**\
-  → Lose points — and if selling during bonding curves, the penalty is double
+  → Lose points — with a **2x penalty** if selling during the bonding curve launch
 * **Staking SPTs**\
-  → Earn daily points based on the amount and duration staked\
-  → Must be staked for a full day to count
-* **Providing Liquidity (post-launch)**\
-  → Earn points for adding LP once an SPT is live and trading
+  → Earn daily points based on the amount and duration\
+  → Only full-day stakes are counted (no partial-day credit)
+* **Providing Liquidity** _(post-launch only)_\
+  → Earn points when you add LP to a live, tradable SPT
 
-> ⏳ Sporties are calculated every 24 hours and claimable after a 7-day delay.\
-> Claiming is manual — unclaimed points are still yours, but future actions will cost more gas to claim them simultaneously.
-
-***
-
-#### 🛡 Why They're Non-Transferable
-
-Sporties are a **reputation and activity layer**, not a tradable asset.\
-We designed them to reflect real engagement — not to be botted, sold, or gamed.
-
-They live **on-chain** in a custom contract — and are bound to your wallet identity.\
-This makes them ideal for things like:
-
-* Rewarding loyalty, not speculation, or direct P2W
-* Powering fair airdrops and campaigns
-* Enabling tiered access, quests, and roles
-* Building transparent, trackable user scores
+⏳ **Sporties are calculated every 24 hours** and become **claimable after 7 full days**.
 
 ***
 
-#### 🧠 Future Redemption Ideas (Under Consideration)
+#### 🛡 Why They’re Non-Transferable
 
-Sporties aren’t just for airdrops.\
-We’re exploring other uses — potentially including:
+Sporties aren’t meant to be traded — they’re designed to measure real engagement.
 
-* **Exclusive access** to limited campaigns
-* **Discounted fees** or special staking boosts
-* **DAO voting boosts** for active users
-* **Point shop** redemptions (merch, collectibles, access)
-* **Achievement systems** — on-chain roles, badges, or NFTs
-* **Social layers** — leaderboard, reputation score, etc.
+They live in a custom on-chain contract and are **bound to your wallet**, acting as your reputation layer across the protocol.
+
+This keeps the system:
+
+* Fair and bot-resistant
+* Aligned with real user activity
+* Transparent and verifiable
+
+Sporties power systems such as:
+
+* Loyalty rewards
+* Airdrop allocations
+* Status and access roles
+* Long-term reputation building
+
+***
+
+#### 🧠 Future Redemption Ideas _(Under Consideration)_
+
+Sporties aren’t just for airdrops — they may become central to other utilities as the ecosystem evolves.
+
+Potential uses include:
+
+* Special campaign access and pre-launch whitelists
+* Fee discounts or staking boosts
+* Temporary governance boosts for active users
+* Point-shop redemptions (merch, collectibles, in-game perks)
+* Achievement badges, on-chain roles, or NFTs
+* Leaderboards and community reputation layers
 
 ***
 
 #### 🚫 Why No Reset?
 
-We’re not planning any seasonal resets or wipeouts.\
-But to encourage ongoing engagement, we may explore:
+We’re not planning seasonal resets or wipes.\
+Your Sporties are yours — permanently.
 
-* **Soft decay mechanisms**
-* **Activity-based multipliers**
-* **Quests and missions** to keep your score growing
+But to keep engagement high, we may experiment with:
 
-You earned your Sporties — they’re meant to last.\
-But the most active users will always have new ways to grow and win.
+* Soft decay over long inactivity periods
+* Activity-based multipliers or streak bonuses
+* Quests and missions to continually grow your score
+
+You earned your Sporties — and the ecosystem is designed to keep rewarding that.

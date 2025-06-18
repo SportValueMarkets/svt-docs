@@ -1,46 +1,40 @@
-# Tokenomics
+# 💸 Tokenomics
 
-Each **SPT (Sports Performance Token)** represents a unique athlete and is launched with a transparent, fixed-supply distribution model designed for long-term growth, performance-based engagement, and fan alignment.
+Each **SPT (Sports Player Token)** represents a real athlete and is launched with a **fixed 1 billion token supply**, transparently allocated across 8 categories to support long-term growth, community incentives, and protocol sustainability.
 
-Every SPT is a **standard ERC-20 token** with a **hard cap of 1 billion tokens**, distributed across eight categories:
-
-| Category     | Allocation | Vesting (Months) | Lockup (Months) |
-| ------------ | ---------- | ---------------- | --------------- |
-| 🧑‍💻 Team   | 9%         | 18               | 6               |
-| 🎓 Advisors  | 1%         | 12               | 6               |
-| 🌍 Public    | 15%        | 1                | 0               |
-| 🎁 Airdrop   | 10.5%      | 3                | 0               |
-| 💧 Liquidity | 7.5%       | 6                | 0               |
-| 🏛 Treasury  | 7%         | 24               | 6               |
-| 🎯 Rewards   | 40%        | 36               | 0               |
-| 🧑‍🚀 Player | 10%        | 18               | 6               |
-| **Total**    | **100%**   |                  |                 |
+These tokens are **ERC-20 standard**, tradable, stakeable, and driven by a performance-linked economy where fans benefit from being early, loyal, and engaged.
 
 ***
 
-#### 🌀 Distribution Dynamics
+#### 🌀 Distribution Breakdown
 
-* **Public Sale**: 15% released at launch. This includes bonding curve participants and early buyers — the true believers who help establish the athlete's market value from day one.
-* **Airdrops**: 10.5% distributed through a unified, gamified airdrop system — rewarding fans based on activity, performance conviction, and community growth. Ultra Fans receive an additional 5% of that value, allocated separately.
-* **Rewards Vault**: The 40% allocated to staking rewards is streamed over 3 years and fuels weekly **performance-based earnings** for those who stake SPTs.
-* **Player Share**: Athletes receive 10% of their own SPTs, aligned with community success and protocol growth. This share is vested and locked to ensure long-term alignment.
-* **Team & Advisors**: Structured to unlock gradually to align with the long-term development of each athlete market.
+| Category          | Allocation  | % of Supply | Vesting Details                           |
+| ----------------- | ----------- | ----------- | ----------------------------------------- |
+| **Team**          | 90,000,000  | 9.0%        | 6-month lock, 18-month linear vesting     |
+| **Advisors**      | 10,000,000  | 1.0%        | 6-month lock, 12-month linear vesting     |
+| **Public Sale**   | 150,000,000 | 15.0%       | Fully unlocked (includes bonding curve)   |
+| **Airdrop**       | 105,000,000 | 10.5%       | Fully unlocked, distributed via Sporties  |
+| **Liquidity**     | 75,000,000  | 7.5%        | Fully unlocked for launch LPs             |
+| **Treasury**      | 70,000,000  | 7.0%        | 6-month lock, 24-month linear vesting     |
+| **Rewards Vault** | 400,000,000 | 40.0%       | Streamed over 3 years for staking rewards |
+| **Player Share**  | 100,000,000 | 10.0%       | 6-month lock, 18-month linear vesting     |
+
+> ⚠️ Ultra Fans also receive a separate bonus equivalent to **5% of the Airdrop value**, distributed through the same allocation mechanism.
 
 ***
 
 #### 🔒 Vesting Schedule
 
-The vesting system ensures that no one — not players, not the team, not early buyers — can dominate or dump the market early.
+The SPT model avoids early concentration or dump risk:
 
-* **Public tokens** are fully liquid from the start (except those bought through bonding curve lock).
-* **All other categories** follow **linear monthly vesting** after their respective lockups end.
-
-This ensures **predictable token flows**, gradual decentralization, and protection against volatility.
+* Public tokens are liquid from day one (except bonding curve lock-ups).
+* All other categories follow clear **linear monthly vesting** after a defined **lock period**.
+* This ensures fair token flow, gradual decentralization, and stable market growth over time.
 
 ***
 
-#### 🔁 Inflation-Free Model
+#### 💰 Design Principles
 
-Each SPT has a **fixed cap of 1B tokens**.\
-No minting. No supply creep. No dilution.\
-The token is born fully designed — what changes is the **value and demand** created by the community, performance, and protocol growth.
+* **No Inflation, No Dilution**: Every SPT is capped at **1 billion tokens**, with no future minting. What changes isn’t supply — it’s the demand, performance, and utility.
+* **Long-Term Alignment**: Founders, players, and treasury allocations unlock slowly, linking their incentives to protocol success.
+* **Community-Driven Value**: Most of the supply (65%+) is in the hands of the community via public, airdrop, rewards, and liquidity allocations.

@@ -1,4 +1,4 @@
-# SVTs
+# 🪙 SVTs
 
 SVT (Sport Value Token) is the lifeblood of the SVM protocol — the token that gives you a voice, a share, and a seat at the table.
 

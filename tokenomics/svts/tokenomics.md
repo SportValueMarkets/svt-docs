@@ -1,4 +1,4 @@
-# Tokenomics
+# 💸 Tokenomics
 
 **SVT (Sports Value Token)** is the governance and utility token of the SVM Protocol — powering core functions like voting, fee discounts, staking, and more. Its distribution is designed for long-term sustainability, community alignment, and incentivized protocol growth.
 

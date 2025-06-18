@@ -1,4 +1,4 @@
-# SPTs
+# ⚽ SPTs
 
 **SPTs (Sports Performance Tokens)** are the core primitive of the SVM protocol — a revolutionary new on-chain asset class that transforms athletes into tradable markets and fans into true stakeholders.
 

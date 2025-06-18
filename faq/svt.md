@@ -1,4 +1,4 @@
-# SVT
+# 🪙 SVT
 
 <details>
 

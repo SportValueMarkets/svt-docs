@@ -1,4 +1,4 @@
-# What is the Ultra Fans Program
+# 👸 What is the Ultra Fans Program
 
 **Ultra Fans** are the beating heart of the SVM movement — not just supporters, but early builders of the sportfi revolution.
 
