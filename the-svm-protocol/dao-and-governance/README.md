@@ -1,7 +1,7 @@
 # 🤝 DAO & Governance
 
 **SVM isn’t just a protocol — it’s a public utility for sports fandom.**\
-And it will be governed like one: **by the fans, for the fans**, using $SVT.
+And it will be governed like one: **by the fans, for the fans**, using $SVM.
 
 The DAO will be the beating heart of Sport Value Market, ensuring that no single company, admin, or VC can dictate its future.
 
@@ -9,7 +9,7 @@ The DAO will be the beating heart of Sport Value Market, ensuring that no single
 
 ### 🗳 What the DAO Will Govern
 
-Once SVT is live and the DAO is activated, community members will begin voting on major protocol decisions:
+Once $SVM is live and the DAO is activated, community members will begin voting on major protocol decisions:
 
 * ✅ Launching new SPTs (Athlete Tokens)
 * ✅ Adjusting staking, airdrop, or fee mechanics
@@ -22,11 +22,11 @@ Once SVT is live and the DAO is activated, community members will begin voting o
 
 ***
 
-### 🔧 The Role of SVT (Coming Soon)
+### 🔧 The Role of $SVM (Coming Soon)
 
-**SVT** is the upcoming governance token of SVM. It’s not live yet — we’re rolling it out only after the protocol, airdrops, and staking economy have matured.
+**$SVM** is the upcoming governance token of SVM. It’s not live yet — we’re rolling it out only after the protocol, airdrops, and staking economy have matured.
 
-Once launched, SVT will be used to:
+Once launched, $SVM will be used to:
 
 * Vote on proposals
 * Direct treasury spending
@@ -34,7 +34,7 @@ Once launched, SVT will be used to:
 * Share in protocol revenue
 * Unlock deeper features or access tiers
 
-> The SVT launch won’t just mark governance — it will mark ownership.
+> The $SVM launch won’t just mark governance — it will mark ownership.
 
 ***
 
@@ -78,7 +78,7 @@ Just real ownership, from real fans, building a new era of sport.
 
 ### 🏁 TL;DR
 
-* 🪙 SVT = Governance token (launching later)
+* 🪙 $SVM = Governance token (launching later)
 * 🗳 DAO will control token launches, fees, upgrades, and expansion
 * 🧠 Treasury decisions = community-led
 * ⚖️ Full decentralization is the endgame — and we’re building toward it fast

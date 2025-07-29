@@ -11,7 +11,7 @@ This is more than a reward system. It’s the flywheel that powers the entire fa
 
 SVM is built on **two primary earning tracks**:
 
-#### 1. 🏅 Staking Rewards from Player Performance
+#### 1. 🏅 Staking Rewards from Sport Star Performance
 
 Stake your SPTs and earn **weekly yield** based on how your athlete performs in real life.
 
@@ -57,7 +57,7 @@ Every action you take earns something — whether tokens or points.
 #### 2️⃣ Allocate
 
 * 🎟 Use your **Sporties** to enter airdrop campaigns
-* 💪 Choose the players you believe in
+* 💪 Choose the Sport Star you believe in
 * 🎯 Strategy matters — allocate across many or go all-in on one
 
 You decide how to play. Bigger commitments mean bigger potential upside.
@@ -86,9 +86,9 @@ This loop builds a **positive-sum ecosystem**:
 * Fans stake → Rewards flow → Tokens circulate
 * Users engage → Points rise → Airdrops amplify
 * Protocol earns fees → Treasury grows → Value recycles
-* Community grows → More players launch → More loops restart
+* Community grows → More $SPTs launch → More loops restart
 
-Every new player token adds **fresh fuel** to the value engine.
+Every new performance token adds **fresh fuel** to the value engine.
 
 ***
 
@@ -96,7 +96,7 @@ Every new player token adds **fresh fuel** to the value engine.
 
 **The SVM Value Loop = Dual Reward Flywheel**
 
-* ✅ Stake SPTs → earn passive weekly rewards
+* ✅ Stake $SPTs → earn passive weekly rewards
 * ✅ Engage + refer → earn Sporties
 * ✅ Allocate Sporties → claim massive airdrops
 * 🔄 Reinvest, stake again, earn more

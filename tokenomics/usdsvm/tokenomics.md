@@ -4,7 +4,7 @@
 
 #### 📊 Total Supply
 
-**2,000,000,000 SVT** (fixed)
+**1,000,000,000 SVT** (fixed)
 
 ***
 
@@ -12,16 +12,16 @@
 
 | **Category**     | **%**  | **Amount**      | **Vesting Schedule**                   |
 | ---------------- | ------ | --------------- | -------------------------------------- |
-| **Rewards**      | 25.00% | 500,000,000 SVT | 48-month linear release (no lock)      |
-| **Treasury**     | 12.50% | 250,000,000 SVT | 36-month linear vesting, 3-month cliff |
-| **Liquidity**    | 12.50% | 250,000,000 SVT | 12-month linear vesting                |
-| **Airdrop**      | 5.00%  | 100,000,000 SVT | 6-month linear vesting                 |
-| **Public Sale**  | 7.50%  | 150,000,000 SVT | No lock, liquid on TGE                 |
-| **KOL Round**    | 7.50%  | 150,000,000 SVT | 12-month vesting, 6-month lock         |
-| **Private Sale** | 6.25%  | 125,000,000 SVT | 18-month vesting, 3-month lock         |
-| **Seed Round**   | 3.75%  | 75,000,000 SVT  | 24-month vesting, 3-month lock         |
-| **Advisors**     | 5.00%  | 100,000,000 SVT | 24-month vesting, 12-month lock        |
-| **Team**         | 15.00% | 300,000,000 SVT | 36-month vesting, 12-month cliff       |
+| **Rewards**      | 25.00% | 250,000,000 SVT | 48-month linear release (no lock)      |
+| **Treasury**     | 12.50% | 125,000,000 SVT | 36-month linear vesting, 3-month cliff |
+| **Liquidity**    | 12.50% | 125,000,000 SVT | 12-month linear vesting                |
+| **Airdrop**      | 5.00%  | 50,000,000 SVT  | 6-month linear vesting                 |
+| **Public Sale**  | 7.50%  | 75,000,000 SVT  | No lock, liquid on TGE                 |
+| **KOL Round**    | 7.50%  | 75,000,000 SVT  | 12-month vesting, 6-month lock         |
+| **Private Sale** | 6.25%  | 62,500,000 SVT  | 18-month vesting, 3-month lock         |
+| **Seed Round**   | 3.75%  | 37,500,000 SVT  | 24-month vesting, 3-month lock         |
+| **Advisors**     | 5.00%  | 50,000,000 SVT  | 24-month vesting, 12-month lock        |
+| **Team**         | 15.00% | 150,000,000 SVT | 36-month vesting, 12-month cliff       |
 
 ***
 

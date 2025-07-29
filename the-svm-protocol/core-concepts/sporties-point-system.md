@@ -17,7 +17,7 @@ They’re not just points. They’re power.
 They are:
 
 * 🪪 **Proof of your loyalty** and protocol activity
-* 🎟️ **Your key to airdrop campaigns** across all SPTs
+* 🎟️ **Your key to airdrop campaigns** across all $SPTs
 * 🧱 **A foundational layer** in the ecosystem’s social + financial loop
 
 > The more Sporties you earn, the more you can claim.\

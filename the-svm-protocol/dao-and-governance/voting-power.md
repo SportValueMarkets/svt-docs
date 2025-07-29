@@ -2,15 +2,15 @@
 
 In the Sport Value Market (SVM) ecosystem, real ownership means real influence.
 
-And when $SVT (Sport Value Token) goes live, **voting power** becomes the core way holders shape the protocol’s future — from token launches to treasury allocation to new sport integrations.
+And when $SVM (Sport Value Market's Token) goes live, **voting power** becomes the core way holders shape the protocol’s future — from token launches to treasury allocation to new sport integrations.
 
 ***
 
 ### 🧠 How Voting Power Will Work
 
-Voting power will be based on the amount of **SVT you hold and stake**, with possible future upgrades like locking periods, delegation, or reputation weighting.
+Voting power will be based on the amount of $**SVM you hold and stake**, with possible future upgrades like locking periods, delegation, or reputation weighting.
 
-> The more SVT you commit, the greater your impact on decisions that matter.
+> The more $SVM you commit, the greater your impact on decisions that matter.
 
 Key variables to define (via DAO proposals):
 
@@ -44,7 +44,7 @@ The governance model will evolve in **stages**:
 1. **Launch Phase**\
    Core team controls emergency upgrades\
    Community feedback shapes early meta
-2. **SVT Activation**\
+2. **$SVM Activation**\
    Voting portal goes live\
    Initial proposals seeded by early supporters and ambassadors
 3. **Mature DAO**\
@@ -55,9 +55,9 @@ The governance model will evolve in **stages**:
 
 ### 💡 TL;DR
 
-* SVT gives you voting power — the more you stake, the more say you have
+* $SVM gives you voting power — the more you stake, the more say you have
 * Proposals will cover everything from rewards to roadmaps
 * DAO voting keeps SVM aligned with its users, not a central company
-* Governance begins soon after SVT launch
+* Governance begins soon after $SVM launch
 
 > It’s not just token voting. It’s _fan-powered protocol control._

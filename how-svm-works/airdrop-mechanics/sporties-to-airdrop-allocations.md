@@ -1,4 +1,4 @@
-# Sporties to Airdrop Allocations
+# 🏅 Sporties to Airdrop Allocations
 
 _“You earn. You allocate. You claim. That’s the game.”_
 

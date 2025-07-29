@@ -1,4 +1,4 @@
-# Airdrop Distribution Mechanism
+# ⚖️ Airdrop Distribution Mechanism
 
 _Predictable, transparent, and repeatable — not a gamble, but a game plan.”_
 
@@ -44,7 +44,7 @@ You can’t change your allocation after the window closes or remove Sporties al
 After the allocation window ends:
 
 * The system calculates your rewards:
-  * **80% Proportional Share:** Based on your Sporties vs. total pool
+  * **80% Proportional Airdrap Reward (PAR):** Based on your Sporties vs. total pool
   * **20% Base Airdrop Guarantee (BAG):** Equal share for all who passed a minimum threshold
 * Ultra Fans’ **5% bonus pool** is calculated **separately**, using **Ultra Fan Points**, following the same 80/20 logic.
 
@@ -72,7 +72,7 @@ In addition to the main airdrop, there is a **+5% bonus airdrop pool** exclusive
 It works the same way:
 
 * Sporties = Ultra Fan Points
-* Allocation = 80% Proportional + 20% BAG
+* Allocation = 80% PAR + 20% BAG
 * Claimed after bonding curve ends
 
 It’s not taken from the public pool — it’s extra. And Ultra Fans can participate in both airdrops.

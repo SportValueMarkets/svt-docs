@@ -52,7 +52,7 @@ Then we do it again. And again. And again.
 ### 🧱 How It All Ties Together
 
 * **SPTs** drive speculation + staking
-* **SVT** governs, grows, and shares value
+* **$SVM** governs, grows, and shares value
 * **Sporties** track engagement + allocate airdrops
 * **Airdrops** trigger activity, staking, and onboarding
 * **Protocol fees** go toward LP, burns, rewards

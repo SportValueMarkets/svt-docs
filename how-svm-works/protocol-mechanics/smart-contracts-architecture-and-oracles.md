@@ -13,7 +13,7 @@ The SVM protocol will be composed of multiple modular smart contracts that autom
 * **Airdrop Allocator**\
   Handles user allocation in each airdrop pool based on Sporties spent and BAG qualification.
 * **DAO Governance**\
-  Controls protocol parameters, launch approvals, and treasury spending via SVT-based voting.
+  Controls protocol parameters, launch approvals, and treasury spending via $SVM-based voting.
 
 All contracts will be upgradeable, auditable, and open for community review.
 

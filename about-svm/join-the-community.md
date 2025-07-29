@@ -16,7 +16,7 @@
 
 [Medium](https://medium.com/sport-value-tokens)
 
-[Docs](../introduction/welcome.md)
+[Docs](../)
 
 
 

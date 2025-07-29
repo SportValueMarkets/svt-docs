@@ -57,7 +57,7 @@ Once the DAO matures:
 
 * Treasury is funded by protocol activity: launches, trading, staking, more
 * DAO decides how it’s used: campaigns, grants, product, dApps, growth
-* Controlled transparently and democratically by SVT holders
+* Controlled transparently and democratically by $SVM holders
 * Treasury = your lever to expand, reward, and evolve the SVM ecosystem
 
 > It’s not just a fund — it’s your **toolkit to build a sportfi world**. 🛠️🏆

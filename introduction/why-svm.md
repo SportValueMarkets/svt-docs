@@ -2,7 +2,7 @@
 
 > **Sports are massive. Crypto is revolutionary. But something is still broken.**
 
-Fans are more connected to sports than ever — yet have **zero stake** in the players, teams, or outcomes. Betting is predatory. Trading is complicated. And most Web3 products are just pump-and-dumps in disguise.
+Fans are more connected to sports than ever — yet have **zero stake** in the players/atheletes, teams, or outcomes. Betting is predatory. Trading is complicated. And most Web3 products are just pump-and-dumps in disguise.
 
 **SVM exists to fix that.**
 
@@ -34,7 +34,7 @@ We’re building a new market — one that’s:
 > Billions of fans. Zero ownership.
 
 * Fans create value — but never share in it
-* With SVM, you **own a piece of the player**
+* With SVM, you **own a piece of the Sport Star**
 * Real rewards tied to real-world performance
 * From passive spectators to active stakeholders
 
@@ -86,7 +86,7 @@ We’re building a new market — one that’s:
 
 A new asset class. A global protocol. A sport-native fan economy.
 
-And a revolution in what it means to support a player.
+And a revolution in what it means to support a Sport Star.
 
 > You don’t just cheer anymore. You participate.
 >

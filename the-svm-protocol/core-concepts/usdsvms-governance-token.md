@@ -1,6 +1,6 @@
-# 📩 SVTs: Governance Token
+# 📩 $SVMs: Governance Token
 
-**SVT (Sport Value Token)** is the upcoming governance and utility token of the SVM protocol.\
+$**SVM (Sport Value Market's Token)** is the upcoming governance and utility token of the SVM protocol.\
 While it's not live yet, it’s designed to be the **core coordination layer** for the entire ecosystem once we reach critical traction.
 
 > Right now, we're building the market.\
@@ -8,16 +8,16 @@ While it's not live yet, it’s designed to be the **core coordination layer** f
 
 ***
 
-### 🧠 What Is SVT?
+### 🧠 What Is $SVM?
 
-SVT will serve as:
+$SVM will serve as:
 
 * 🏛 **The governance token** for DAO proposals, votes, and upgrades
 * 💰 **A claim on protocol value** — via revenue sharing, buybacks, and treasury use
 * 🔑 **A permission layer** — for launching new athlete tokens and expanding utilities
-* 🧱 **A meta asset** — backing the growth of SVM itself, not just individual players
+* 🧱 **A meta asset** — backing the growth of SVM itself, not just individual Sport Stars
 
-> If SPTs are how you back players, SVT is how you bet on the whole ecosystem.
+> If $SPTs are how you back Sport Stars, $SVM is how you bet on the whole ecosystem.
 
 ***
 
@@ -25,13 +25,13 @@ SVT will serve as:
 
 SVM is starting with:
 
-* 🧬 Athlete token launches (SPTs)
+* 🧬 Athlete token launches ($SPTs)
 * 🪂 Airdrop campaigns via Sporties
 * 📈 Community growth and performance data
 
-SVT will launch **later**, once:
+$SVM will launch **later**, once:
 
-* SPT markets show traction
+* $SPT markets show traction
 * Sporties ecosystem is active
 * The protocol requires governance and coordination
 
@@ -43,9 +43,9 @@ This ensures:
 
 ***
 
-### 🔮 What SVT Will Power
+### 🔮 What $SVM Will Power
 
-Once launched, SVT will unlock:
+Once launched, $SVM will unlock:
 
 * 🗳 **Voting** on protocol upgrades, launches, and parameter changes
 * 📦 **Treasury allocation** for buybacks, LPs, grants, or ecosystem support
@@ -58,7 +58,7 @@ It’s not just a token — it’s your voice in the sportfi economy we’re bui
 
 ### 🧩 Utility-Driven Design
 
-SVT will be designed for:
+$SVM will be designed for:
 
 * 🔁 **Staking / locking** mechanisms for yield and power boosts
 * 📉 **Fee discounts** on future SVM features
@@ -84,10 +84,10 @@ Details will be shared before launch — but expect:
 
 ### 🏁 TL;DR
 
-* SVT is **not live yet** — it comes once the ecosystem is ready
+* $SVM is **not live yet** — it comes once the ecosystem is ready
 * It will be the **DAO key** to SVM: governing athlete launches, fees, and rewards
 * Designed for **utility, staking, and coordination**
 * Meant for **long-term holders, not flippers**
 
-> When SVT goes live, it won’t just be another token —\
+> When $SVM goes live, it won’t just be another token —\
 > it’ll be **the fuel that powers the sportfi revolution** from the inside out.

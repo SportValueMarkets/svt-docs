@@ -17,8 +17,8 @@ It’s not just about Web3 tech. It’s about flipping the entire model of sport
 
 A future where:
 
-🏅 **Every athlete** — from international legends to local prodigies — has their own Player Token\
-💡 **Every fan** can back their favorite players with knowledge, not just emotion — and earn when they’re right\
+🏅 **Every athlete** — from international legends to local prodigies — has their own Performance Token\
+💡 **Every fan** can back their favorite Sport Star with knowledge, not just emotion — and earn when they’re right\
 🧱 **Builders** can launch dApps, fantasy games, dashboards, or prediction markets on top of SVM\
 🌐 **Communities form** around real-time performance and on-chain strategy, not just jersey sales\
 💥 **Memes + Money** collide to create viral markets around breakout moments and fan narratives

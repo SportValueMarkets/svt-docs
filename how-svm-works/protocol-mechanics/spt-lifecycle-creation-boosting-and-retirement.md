@@ -9,7 +9,7 @@ This keeps the system fresh, fair, and filled with high-signal opportunities for
 
 ### 🛠️ 1. Creation: Launching New Player Tokens
 
-Every SPT starts with a fan-fueled launch, where community members propose and vote (via SVT) on new athlete tokens.
+Every SPT starts with a fan-fueled launch, where community members propose and vote (via $SVM) on new athlete tokens.
 
 Once approved:
 

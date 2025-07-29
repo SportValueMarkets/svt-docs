@@ -42,7 +42,7 @@ The cross-protocol glue — earned through both **social and on-chain activity**
 
 ***
 
-#### 3️⃣ **SVT (Sport Value Token)**
+#### 3️⃣ $**SVM (Sport Value Token)**
 
 The protocol’s governance and utility token. _(Launching later.)_
 
@@ -50,7 +50,7 @@ The protocol’s governance and utility token. _(Launching later.)_
 * Can unlock premium features, airdrop boosts, and exclusive roles
 * Will become the **value layer** that ties the whole system together
 
-> For now, everything flows into Sporties and SPTs. SVT arrives when the ecosystem’s ready.
+> For now, everything flows into Sporties and SPTs. $SVM arrives when the ecosystem’s ready.
 
 ***
 
@@ -62,7 +62,7 @@ Here’s how it compounds:
 2. 🧲 New SPTs launch → Trading/staking begins
 3. 📈 Protocol earns fees → Rewards and treasury grow
 4. 🪙 Rewards go to stakers and the DAO
-5. 🎯 SVT (later) will govern, allocate, and distribute value
+5. 🎯 $SVM (later) will govern, allocate, and distribute value
 6. 🌐 More players launch → More campaigns → More loops restart
 
 > Every new athlete = new market\

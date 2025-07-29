@@ -1,4 +1,4 @@
-# Unified Airdrop Pools
+# ♾️ Unified Airdrop Pools
 
 **One system. Thousands of campaigns. Infinite upside.**
 

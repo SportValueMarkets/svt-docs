@@ -17,11 +17,11 @@ Every athlete gets a fixed-supply ERC-20 token, scored by live performance and d
 Launched through a bonding curve — where early access is rewarded, and early exits are penalized.
 
 🔁 **A No-Loss Staking System**\
-Stake player tokens to earn weekly rewards — no betting, no downside.\
+Stake performance tokens to earn weekly rewards — no betting, no downside.\
 Your tokens stay in your wallet, win or lose.
 
 🪂 **An Infinite Airdrop Engine**\
-Every player token launch comes with its own airdrop campaign.\
+Every performance token launch comes with its own airdrop campaign.\
 Users allocate points (“Sporties”) to join the airdrop pool.\
 More tokens = more drops = more chances to earn.
 
@@ -30,20 +30,20 @@ Trades, staking, and protocol fees feed into buybacks, LPs, burns, and DAO-contr
 Sustainable incentives. Real utility.
 
 🧠 **A Community-Governed DAO**\
-SVT holders decide what gets built, who gets funded, and how the protocol evolves — all transparently on-chain.
+$SVM holders decide what gets built, who gets funded, and how the protocol evolves — all transparently on-chain.
 
 ***
 
 🪙 **The Three Pillars of the SVM Economy**
 
-1. **SPTs (Sport Player Tokens)**
+1. **$SPTs (Sport Performance Tokens)**
 
 * ERC-20 tokens for each athlete
 * Fixed supply, live scoring, real utility
 * Stake for rewards based on performance
 * Trade based on virality, fandom, or breakout moments
 
-2. **SVT (Sport Value Token)**
+2. **$SVM (Sport Value Market** Toke&#x6E;**)**
 
 * The governance + coordination token of the protocol
 * Vote on proposals
@@ -67,7 +67,7 @@ SVT holders decide what gets built, who gets funded, and how the protocol evolve
 * Join airdrops by allocating your Sporties
 * Climb leaderboards to flex your fandom
 * Launch new markets for athletes
-* Vote on key decisions through SVT
+* Vote on key decisions through $SVM
 
 It’s the ultimate play-to-earn loop — powered by fandom, not speculation.
 
@@ -77,7 +77,7 @@ It’s the ultimate play-to-earn loop — powered by fandom, not speculation.
 
 SVM is more than an app. It’s an open engine for:
 
-* Sportfi games & fantasy leagues
+* SportFi games & fantasy leagues
 * Meme-based prediction markets
 * Creator-led athlete campaigns
 * Real-time trading and staking layers
@@ -97,9 +97,9 @@ You see the next star... and get nothing.
 
 **SVM flips that:**
 
-* You find a player early = rewards
+* You find a performance early = rewards
 * You create hype = ecosystem growth
 * You stake and hold = shared upside
 
-This is sportfi. This is ownership.\
+This is SportFi. This is ownership.\
 This is how fans win.
